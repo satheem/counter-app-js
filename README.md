@@ -1,14 +1,32 @@
-# A simple counter application built with HTML, CSS, and JavaScript. This app allows users to increment, decrement, and reset the counter value with the click of a button.
+# Counter App
 
-# Live Preview Link - 
-https://satheem.github.io/counter-app-js/
+A simple counter application built using JavaScript, HTML, and CSS.
 
-**Features**
-- Increment: Increase the counter value by 1.
-- Decrement: Decrease the counter value by 1.
-- Reset: Reset the counter value to 0.
+## 🚀 Live Demo
+[Click here to view the live demo](https://satheem.github.io/counter-app-js/)
 
-**Technologies Used**
-- HTML: Structure of the application.
-- CSS: Styling and layout.
-- JavaScript: Logic for counter functionality.
+## 📂 Project Structure
+```
+📦 counter-app-js
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┗ 📜 script.js
+```
+
+## 🛠 Features
+- Increase, decrease, and reset the counter
+- Simple and clean UI
+- Responsive design
+
+## 📌 Usage
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/satheem/counter-app-js.git
+   ```
+2. Open `index.html` in your browser.
+
+## 🌟 Contributing
+Contributions are welcome! Feel free to submit a pull request.
+
+## 📜 License
+This project is open-source and available under the MIT License.
