@@ -1,6 +1,6 @@
 ﻿﻿# A simple counter application built with HTML, CSS, and JavaScript. This app allows users to increment, decrement, and reset the counter value with the click of a button.
 
-Live Preview Link - 
+Live Preview - 
 https://satheem.github.io/counter-app-js/
 
 **Features**
