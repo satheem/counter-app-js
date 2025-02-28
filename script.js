@@ -8,12 +8,12 @@ let count = 0
 countDisplay.textContent = count
 
 increamentButton.addEventListener("click", function(){
-    count = count+1
+    count++
     countDisplay.textContent = count
 })
 decreamentButton.addEventListener("click", function(){
     if (count>0) {
-        count = count-1
+        count--
     countDisplay.textContent = count
     }
 })
